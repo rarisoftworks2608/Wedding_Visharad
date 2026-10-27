@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="31" fill="#1c1712"/>
+  <circle cx="32" cy="32" r="31" fill="none" stroke="#b3854c" stroke-width="1.5"/>
+  <text x="32" y="40" font-family="Georgia, 'Playfair Display', serif" font-style="italic" font-size="24" fill="#d9b481" text-anchor="middle">WV</text>
+</svg>
